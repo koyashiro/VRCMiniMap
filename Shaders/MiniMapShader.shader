@@ -54,9 +54,12 @@ Shader "Koyashiro/MiniMapShader"
                 fixed4 playerCol = tex2D(_PlayerTex, i.uv);
 
                 fixed4 col;
-                if (playerCol.r > 0) {
+                if (playerCol.r > 0)
+                {
                     col = fixed4(1, 0, 0, 1);
-                } else {
+                }
+                else
+                {
                     col = worldCol;
                 }
 
