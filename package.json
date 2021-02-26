@@ -2,7 +2,7 @@
   "name": "net.koyashiro.vrcminimap",
   "displayName": "VRC Avatar MiniMap",
   "version": "0.1.0",
-  "unity": "2018.4.20f",
+  "unity": "2018.4",
   "description": "VRChat Avatar's MiniMap",
   "keywords": [
     "VRChat",
