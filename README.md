@@ -1,11 +1,11 @@
-# vrc-MiniMap
+# VRCMiniMap
 
 ## manifest.json
 
 ```json
 {
   "dependencies": {
-    "net.koyashiro.vrcminimap": "https://github.com/KoyashiroKohaku/vrc-MiniMap.git"
+    "net.koyashiro.vrcminimap": "https://github.com/KoyashiroKohaku/VRCMiniMap.git"
   }
 }
 ```
