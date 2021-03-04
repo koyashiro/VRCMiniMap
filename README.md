@@ -1,5 +1,11 @@
 # vrc-MiniMap
 
-```sh
-git submodule add https://github.com/KoyashiroKohaku/vrc-MiniMap.git Assets/Items/MiniMap
+## manifest.json
+
+```json
+{
+  "dependencies": {
+    "net.koyashiro.vrcminimap": "https://github.com/KoyashiroKohaku/vrc-MiniMap.git"
+  }
+}
 ```
