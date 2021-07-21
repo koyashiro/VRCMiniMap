@@ -1,5 +1,7 @@
 # VRCMiniMap
 
+VRC アバター用のミニマップ。
+
 ## Package URL
 
 `https://github.com/koyashiro/VRCMiniMap.git?path=Packages/net.koyashiro.vrcminimap`
