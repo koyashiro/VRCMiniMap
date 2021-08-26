@@ -2,6 +2,8 @@
 
 VRC アバター用のミニマップ。
 
+![VRChat_1920x1080_2021-08-26_23-16-31 978](https://user-images.githubusercontent.com/6698252/130980169-0f6f5038-9842-4737-939d-2cd5dd096585.png)
+
 ## Package URL
 
 `https://github.com/koyashiro/VRCMiniMap.git`
