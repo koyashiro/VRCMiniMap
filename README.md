@@ -4,7 +4,7 @@ VRC アバター用のミニマップ。
 
 ## Package URL
 
-`https://github.com/koyashiro/VRCMiniMap.git?path=Packages/net.koyashiro.vrcminimap`
+`https://github.com/koyashiro/VRCMiniMap.git`
 
 ## Unity Package Manager によるインストール
 
@@ -16,7 +16,7 @@ VRC アバター用のミニマップ。
 
 ![image](https://user-images.githubusercontent.com/6698252/126033246-b82e6d11-198e-4617-a006-ebf086518892.png)
 
-3. `https://github.com/koyashiro/VRCMiniMap.git?path=Packages/net.koyashiro.vrcminimap` を貼り付けて `Add` を選択する。
+3. `https://github.com/koyashiro/VRCMiniMap.git` を貼り付けて `Add` を選択する。
 
 ![image](https://user-images.githubusercontent.com/6698252/126445123-54e7f8d4-8c32-4923-9123-50dd1b57c220.png)
 
