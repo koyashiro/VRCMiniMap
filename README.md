@@ -23,3 +23,9 @@ VRC アバター用のミニマップ。
 4. `Packages/VRC MiniMap` にパッケージが展開される。
 
    ![image](https://user-images.githubusercontent.com/6698252/126445656-2285eb4d-4d0a-492e-b2c3-c944de2cb3f0.png)
+
+## アバターへの導入手順
+
+1. `Package/VRC Face Monitor` を開き、`MiniMapCameras.prefab` と `MiniMap` をアバターの prefab 内に入れる。
+
+   ![image](https://user-images.githubusercontent.com/6698252/130963612-fe1808e0-cde7-48c2-b295-369ebc59ca3d.png)
